@@ -1,0 +1,13 @@
+WINDOWS10 Epxung SSD BANPHIMCO CPU GIA MANHINH144HZ tainghe VGA RAM gameok
+yes no no yes i9 30tr no yes cardtichhop 1gb yes
+yes no no yes i5 10tr no no rtx2080 2gb no
+no yes no no i9 10tr no no gtx1080 1gb yes
+yes no yes yes i5 10tr no no rtx2080 3gb yes
+yes no yes no i5 30tr no yes cardtichhop 4gb no
+no yes no yes i9 20tr yes yes gtx750 1gb yes
+no yes no no i3 10tr yes no gtx1080 1gb no
+no no no yes i9 20tr yes yes rtx2080 1gb yes
+no yes yes no i5 10tr yes no gtx1080 4gb no
+yes yes yes yes i5 30tr no yes gtx750 3gb no
+no no no no i3 10tr no no rtx2080 1gb no
+yes yes yes yes i5 10tr no no gtx1080 2gb yes
